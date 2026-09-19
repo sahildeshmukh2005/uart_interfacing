@@ -17,3 +17,6 @@ The main objectives of this project are:
 > To verify the design using simulation.<br>
 > To implement and test the design on a Basys 3 FPGA.<br>
 > To gain practical experience in RTL design, simulation, and FPGA implementation.<br>
+
+<b>Refrence</b>
+https://www.ti.com/lit/ug/sprugp1/sprugp1.pdf
