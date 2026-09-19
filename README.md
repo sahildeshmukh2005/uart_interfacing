@@ -10,10 +10,10 @@ The UART design supports serial data transmission (TX), serial data reception (R
 The main objectives of this project are:
 
 To understand UART serial communication.<br>
-To design UART transmitter and receiver using Verilog HDL.
-To implement serial data transmission and reception.
-To understand UART registers and control logic.
-To implement FIFO-based data buffering.
-To verify the design using simulation.
-To implement and test the design on a Basys 3 FPGA.
-To gain practical experience in RTL design, simulation, and FPGA implementation.
+To design UART transmitter and receiver using Verilog HDL.<br>
+To implement serial data transmission and reception.<br>
+To understand UART registers and control logic.<br>
+To implement FIFO-based data buffering.<br>
+To verify the design using simulation.<br>
+To implement and test the design on a Basys 3 FPGA.<br>
+To gain practical experience in RTL design, simulation, and FPGA implementation.<br>
