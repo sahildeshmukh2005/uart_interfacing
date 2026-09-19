@@ -9,7 +9,7 @@ The UART design supports serial data transmission (TX), serial data reception (R
 
 The main objectives of this project are:
 
-To understand UART serial communication.
+To understand UART serial communication.<br>
 To design UART transmitter and receiver using Verilog HDL.
 To implement serial data transmission and reception.
 To understand UART registers and control logic.
